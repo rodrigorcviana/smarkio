@@ -11,7 +11,7 @@ Teste prático de programação para o processo seletivo SMARKIO.
 
 Clonar o projeto do diretório git com o seguinte comando:
 
-#### $ git clone https://github.com/rodrigorcviana/teste-SMARKIO.git
+#### $ git clone https://github.com/rodrigorcviana/smarkio.git
 
 ### Segundo passo:
 
