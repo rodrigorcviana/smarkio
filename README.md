@@ -34,10 +34,17 @@ Para criar as tabelas execute o seguinte comando **dentro do diretório "server"
 
 ### Quinto passo:
 
-Para rodar o servidor execute o seguinte comando **dentro do diretório server**:
-
-#### $ npm run dev
+Execute o comando npm install **dentro do diretório "server"*** para instalar os pacotes necessários para a execução do projeto.
 
 ### Sexto passo:
 
-Neste último passo, **basta abrir o diretório do projeto e abrir o arquivo "index.html" em seu navegador** que a aplicação estará pronta para ser utilizada.
+Para rodar o projeto execute o seguinte comando **dentro do diretório server**:
+
+#### $ npm run dev
+
+Ao executar o comando será aberta uma nova aba no navegador com aplicação pronta para uso.
+
+
+### Adicional:
+
+Dentro da pasta server existe um arquivo .env onde pode ser alterada a app key do ibm watson.
