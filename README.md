@@ -34,7 +34,9 @@ Para criar as tabelas execute o seguinte comando **dentro do diretório "server"
 
 ### Quinto passo:
 
-Execute o comando npm install **dentro do diretório "server"*** para instalar os pacotes necessários para a execução do projeto.
+Para instalar os pacontes necessários para execução do projeto, **dentro do diretório "server"*** execute o seguinte comando:
+
+### $ npm install
 
 ### Sexto passo:
 
