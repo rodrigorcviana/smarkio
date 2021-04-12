@@ -1,0 +1,87 @@
+body {
+  width: 90%;
+  margin: auto;
+  background: #f0f0f0;
+  color: #505050;
+}
+
+button {
+  background: #D0D0D0;
+  border-radius: 3px;
+}
+
+button:hover {
+  background: #C0C0C0;
+}
+
+h3 {
+  color: #404040;
+}
+
+.app {
+  display: flex;
+  width: 900px;
+}
+
+.left-panel {
+  width: 50%;
+  padding-left: 100px;
+}
+.right-panel {
+  width: 50%;
+  height: 100vh;
+  border-left: 1px solid rgb(161, 161, 161);
+}
+
+.left-panel > button {
+  height: 30px;
+  width: 310px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.message-input {
+  display: block;
+}
+
+.right-panel > h3 {
+  margin-left: 40px;
+}
+
+#message {
+  width: 300px;
+  height: 150px;
+  
+}
+
+.panel {
+  display: flex;
+}
+
+.listen-button {
+  width: 70px;
+  margin-left: 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+#message-list {
+  list-style-type: none;
+}
+
+.list-div {
+  display: flex;
+}
+
+.div1 {
+  width: 65%;
+  align-items: center;
+}
+
+.div2 {
+  width: 35%;
+  text-align: center;
+}
+
+.div2 > button {
+  margin-top: 12%;
+}
