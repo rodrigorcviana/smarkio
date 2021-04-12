@@ -1,4 +1,4 @@
-# teste-SMARKIO
+# Teste Prático SMARKIO
 Teste prático de programação para o processo seletivo SMARKIO.
 
 #### Requisitos para executar o projeto localmente:
@@ -34,9 +34,9 @@ Para criar as tabelas execute o seguinte comando **dentro do diretório "server"
 
 ### Quinto passo:
 
-Para instalar os pacontes necessários para execução do projeto, **dentro do diretório "server"*** execute o seguinte comando:
+Para instalar os pacontes necessários para execução do projeto, **dentro do diretório "server"** execute o seguinte comando:
 
-### $ npm install
+#### $ npm install
 
 ### Sexto passo:
 
